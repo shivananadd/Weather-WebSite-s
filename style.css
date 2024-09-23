@@ -16,6 +16,7 @@ body {
   min-height: 100dvh;
   background-size: cover;
   background-position: center;
+    background-color:#92B3C4;
 }
 
 body::before {
