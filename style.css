@@ -11,7 +11,7 @@
   outline: none;
 }
 body {
-  background: url(./assets/assets/bg.jpg);
+  background: url(./assets/bg.jpg);
   width: 100%;
   min-height: 100dvh;
   background-size: cover;
